@@ -131,3 +131,50 @@ Each team member will:
 - Claim tasks through GitHub Issues  
 - Push updates through commits  
 - Report progress through Discord.
+
+
+# Module Three QA and Testing Plan
+
+**Miles Titus, Jordan Baughman, Filip Arghir, Angelo Melino**
+
+---
+
+End of the week, do a playtest of each of the elements of the project,
+do bug reports and updates on the test plan based on the results of the test
+
+Checklist of things to be tested made as developers make features, 
+each dev brings their own checklist of features they wish to test and we collaboratively go through each person's checklist together
+
+Update the test plan at the end of the week based on what the team tests that session
+
+Bugs to be reported both live during the test meeting and in a separate bug log in a discord channel that we have made specifically for bug logs
+
+Bugs will be marked as either fixed or not fixed, with a change log that is updated as people attempt to fix the bug (so progress may be made on fixing a bug without the bug actually being fixed yet)
+
+Beta Phase (Week 7), we focus on the demo and double check/clean up any remaining bugs that were on our checklist
+
+## General Checklist on features we want to implement:
+Player:
+-	Movement
+-	Dodging
+-	Shooting
+-	Interacting with objects
+-	Interaction with pickups
+
+Enemies:
+-	Enemy AI
+-	Pathing for Moving Enemies
+-	Boss Mechanics
+
+Pickups:
+-	Health Pickup
+-	Stamina Pickup
+-	Ammo Pickup
+-	Bullet Powerup
+
+Environmental Interactables:
+-	Doors and Keys
+-	General Level Layout
+-	Hazards
+
+
