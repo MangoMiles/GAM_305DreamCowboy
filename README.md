@@ -135,8 +135,6 @@ Each team member will:
 
 # Module Three QA and Testing Plan
 
-**Miles Titus, Jordan Baughman, Filip Arghir, Angelo Melino**
-
 ---
 
 End of the week, do a playtest of each of the elements of the project,
@@ -177,4 +175,38 @@ Environmental Interactables:
 -	General Level Layout
 -	Hazards
 
+# Module Four Project Log - Team Reflection and Alpha Release
 
+## What parts of the testing process did the team perceive to go well?
+
+<answer>
+
+---
+
+## How were bugs identified and corrected?
+
+<answer>
+
+---
+
+## In terms of the QA and testing process, what would you do differently to improve the process?
+
+<answer>
+
+---
+
+## What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?
+
+<answer>
+
+---
+
+## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+
+<answer>
+
+---
+
+## How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
+
+<answer>
