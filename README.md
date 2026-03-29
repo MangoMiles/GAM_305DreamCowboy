@@ -179,19 +179,19 @@ Environmental Interactables:
 
 ## What parts of the testing process did the team perceive to go well?
 
-<Initial map creation, player stamina and basic enemy AI for both moving and stationary enemies has gone well, and the next steps are adding in powerups, updating the map further and implementing a dodge mechanic, while also ironing out any bugs that arise during this process. >
+Initial map creation, player stamina and basic enemy AI for both moving and stationary enemies has gone well, and the next steps are adding in powerups, updating the map further and implementing a dodge mechanic, while also ironing out any bugs that arise during this process. 
 
 ---
 
 ## How were bugs identified and corrected?
 
-<The few bugs that have come up tended to be fairly obvious to muiltiple people on the team, so or usual process for handling bugs is noting it down in a log on discord, and allocating someone to test and attempt to fix the bug. In the case that someone isn't able to find a solution, the task is allocated to another member of the team, or in the case of a minor bug that doesn't break any other elements of the game, we keep tabs on it and attempt to find a fix for it in the background while working on other, more important tasks.>
+The few bugs that have come up tended to be fairly obvious to muiltiple people on the team, so or usual process for handling bugs is noting it down in a log on discord, and allocating someone to test and attempt to fix the bug. In the case that someone isn't able to find a solution, the task is allocated to another member of the team, or in the case of a minor bug that doesn't break any other elements of the game, we keep tabs on it and attempt to find a fix for it in the background while working on other, more important tasks.
 
 ---
 
 ## In terms of the QA and testing process, what would you do differently to improve the process?
 
-<Our process didn't need to be utilized much only because we were fortunate to have most of our implementations work as intended, however one thing we think could be improved is adding to our logs documents on how mechanics are intended to work. For example, it could be a bug that stamina is only regenerating at a value of 5 per second, but its not caught right away because people think thats whats intended, as we have only discussed there being a stamina regeneration at all and not a specific value.>
+Our process didn't need to be utilized much only because we were fortunate to have most of our implementations work as intended, however one thing we think could be improved is adding to our logs documents on how mechanics are intended to work. For example, it could be a bug that stamina is only regenerating at a value of 5 per second, but its not caught right away because people think thats whats intended, as we have only discussed there being a stamina regeneration at all and not a specific value.
 
 ---
 
