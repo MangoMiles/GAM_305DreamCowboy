@@ -197,16 +197,16 @@ Our process didn't need to be utilized much only because we were fortunate to ha
 
 ## What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?
 
-<answer>
+The main two tools we are utilizing outside of Unreal and GitHub would be Discord and Gitbash. Gitbash is our preferred way up commiting updates to GitHub, while Discord is our preferred way of communicating. Both of these tools have been excellent for us cause its tools we are all familar with and figuring out these tools didn't take away from our development time.
 
 ---
 
 ## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
 
-<answer>
+So far, we've not had any issues with Discord or Gitbash that would require us to seek other tools. While we haven't struggled with the tools we chose, we can imagine that there may be some other tools out there that may be better then what we use currently, but we choose to not explore simply because we already have tools that work.
 
 ---
 
 ## How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
 
-<answer>
+It did not drastically effect our decision on the tools we wanted to use. We chose to use the tools that we felt the team was most comfortable with in order to devote time that would have been spent learning these new tools into development time.
