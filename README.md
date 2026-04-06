@@ -215,6 +215,8 @@ It did not drastically effect our decision on the tools we wanted to use. We cho
 
 We have achieved the baseline of the majority of the mechanics we intended to introduce, including moving and stationary enemies, powerups of different kinds, door/key system, health and stamina UI, movement options like sprinting and dodging, and a handcrafted map that is populated with all the different elements as described. The game is in a functional state, with the remaining core mechanics that we are currently undergoing the full creation of being the shooting mechanics (with a beta version ready now), and a boss enemy that already has an arena prepared for it.
 
+# Module 5 Project Log: Team Reflection and Beta Release
+
 ## What parts of the plan did the team percieve to go wrong in relation to the last stage evaluation
 The only couple struggles we came across was:
 1. Communication on who's doing what was up in the air longer then intended, leading to some elements of the project being slow to start.
@@ -227,7 +229,7 @@ The primary thing we've been taking from previous evaulations is our github work
 In an effort to ensure we could get the project done in time, we wanted to stick to concepts and technical processes that we were already familar with, but we sometimes regret the possibility of doing something a bit outside of our comfort zone and try a new type of game that none of us have made. In that sense, we could have improved our collaboration by spending more time coming up with a more precise idea and vision of a more unique game.
 
 ## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
-Primarily the Issues feature in Github. Its ideally made to assist with documenting bugs and problems, but we found just recording things in discord and having proper communication worked far better, though its likely that's partly due to the small team size compared to a larger team where such regular communication may be a bit more rare.
+Primarily the Issues feature in Github. Its ideally made to assist with documenting bugs and problems, but we found just recording things in Discord and having prompt communication worked far better, though its likely that's partly due to the small team size compared to a larger team where such regular communication may be a bit more rare. We do recognize the Issues feature in Github as being an important part of industry standard bug/problem documentation, though.
 
 ## Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release developmental deadline.
 Our intended beta was within our scope and overview, and at this point the last two remaining major elements we have yet to finalize is the boss enemy and the player shooting mechanics. Shooting mechanics are already underway, while the boss enemy is something that is currently in active discussion as we have a couple different ideas on what will seperate the boss from other enemies, and its just a matter of finding which option feels best for us (if not combine multiple of them).
