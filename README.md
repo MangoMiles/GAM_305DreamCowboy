@@ -233,3 +233,28 @@ Primarily the Issues feature in Github. Its ideally made to assist with document
 
 ## Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release developmental deadline.
 Our intended beta was within our scope and overview, and at this point the last two remaining major elements we have yet to finalize is the boss enemy and the player shooting mechanics. Shooting mechanics are already underway, while the boss enemy is something that is currently in active discussion as we have a couple different ideas on what will seperate the boss from other enemies, and its just a matter of finding which option feels best for us (if not combine multiple of them).
+
+# Module 6 Project Log
+
+## What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+
+A lot of the core systems carried over well from the last stage. Movement, dodging, enemies, pickups and the key and door system all continued working and were improved. We incorporated line traces, implemented projectile shooting, added damage to enemy blueprints and also added random death animations during this stage. These additions helped make combat feel more complete and closer to what we originally planned. Enemies now react properly and die in different ways which helps things feel less static. Overall most of the gameplay loop is now working together.
+
+## What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+
+Communication was still somewhat unclear at times when it came to who was doing certain tasks. Some features started slower because of that. Combat mechanics also went through multiple revisions which slowed things down a bit. We focused more on getting things functional first so some polish came later than expected.
+
+## How were the previous evaluations integrated into this latest stage?
+
+We continued improving our GitHub workflow and general communication. The team got more comfortable working with branches and merging changes. Based on previous evaluations we focused on finishing core mechanics first. This is where the shooting system, line traces, damage and random death animations were implemented since those were part of completing combat.
+
+## What would you do differently to improve the collaboration or development process?
+
+Defining responsibilities earlier would help. More frequent check ins would also help so everyone knows what is being worked on. Locking down combat behavior earlier would reduce revisions. From an artist standpoint planning animations and feedback earlier would also help things feel more cohesive.
+
+## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+
+GitHub Issues still was not very helpful for our smaller team. We relied more on Discord because it was faster for communication and bug tracking. Issues is useful for larger teams but for us it felt slower. Discord, GitHub commits and Unreal tools worked well overall.
+
+Overall the project is still aligned with the original plan and the addition of line traces, projectile shooting, enemy damage and random death animations helped move the game closer to the intended final experience.
+
